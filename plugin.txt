@@ -2,7 +2,7 @@ name
 	Mereti Shipyards
 about 
 	adds a Kor Mereti  outfitter and shipyard after they are pacified by the Wanderers. The mission can be picked up in the shipyard of Spera Anatrusk.
-version 0.1
+version 0.2
 authors
 	Unknown
 	Dobelong
